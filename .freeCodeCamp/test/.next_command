@@ -59,3 +59,4 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 git pull --tags
 git rename upstream origin
 git remote rename upstream origin
+echo hello PostgreSQL
